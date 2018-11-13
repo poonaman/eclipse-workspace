@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringAnnotation">
+        <property name="context-root" value="SpringAnnotation"/>
+        <property name="java-output-path" value="/SpringAnnotation/target/classes"/>
+    </wb-module>
+</project-modules>

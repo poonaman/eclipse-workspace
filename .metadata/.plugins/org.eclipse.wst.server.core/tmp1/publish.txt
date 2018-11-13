@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Nov 12 16:49:51 IST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\poonam.jondhale\\eclipse-workspace\\SpringAnnotationProject\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.1.6.RELEASE.jar=WEB-INF/lib/spring-web-4.1.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\poonam.jondhale\\.m2\\repository\\org\\springframework\\spring-web\\4.2.1.RELEASE\\spring-web-4.2.1.RELEASE.jar=WEB-INF/lib/spring-web-4.2.1.RELEASE.jar

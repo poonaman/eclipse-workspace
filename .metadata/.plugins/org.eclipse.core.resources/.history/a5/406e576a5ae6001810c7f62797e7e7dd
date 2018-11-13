@@ -1,0 +1,6 @@
+package com.pack;
+
+public class WebAppIntializer implements WebApplicationInitializer
+{
+
+}
