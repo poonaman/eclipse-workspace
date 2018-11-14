@@ -1,0 +1,7 @@
+127.0.0.1 - - [14/Nov/2018:11:22:12 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [14/Nov/2018:11:22:13 +0530] "GET /SpringMvcWithoutXML/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [14/Nov/2018:11:22:39 +0530] "GET /SpringMvcWithoutXML/hello HTTP/1.1" 200 1118
+0:0:0:0:0:0:0:1 - - [14/Nov/2018:11:27:15 +0530] "GET /SpringAnnotationProject/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [14/Nov/2018:11:27:22 +0530] "GET /SpringAnnotationProject/hello HTTP/1.1" 200 1118
+0:0:0:0:0:0:0:1 - - [14/Nov/2018:11:50:25 +0530] "GET /SpringAnnotationProject/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [14/Nov/2018:11:50:30 +0530] "GET /SpringAnnotationProject/hello HTTP/1.1" 200 1118
