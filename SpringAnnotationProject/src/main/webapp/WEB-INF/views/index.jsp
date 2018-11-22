@@ -17,15 +17,11 @@
 				</tr>
 				
 				<!-- loop over and print our customers -->
-				<c:forEach var="tempCustomer" items="${list}">
+				<c:forEach var="tempCustomer" items="${employees}">
 				
-									
+									<h1>${tempCustomer.id}</h1>
 					
-					<tr>
-						<td> ${tempCustomer.id} </td>
-						<td> ${tempCustomer.name} </td>
-						<td> ${tempCustomer.age} </td>
-				    </tr>
+					
 				
 				</c:forEach>
 						

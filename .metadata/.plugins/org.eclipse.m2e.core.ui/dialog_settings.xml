@@ -2,12 +2,16 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="SpringMvcWithoutXML"/>
+			<item value="Spring-Boot"/>
+			<item value="SpringBootHelloWorld"/>
 		</list>
 		<list key="name">
+			<item value="Spring-Boot"/>
+			<item value="SpringBootHelloWorld"/>
 		</list>
 		<list key="artifactId">
-			<item value="SpringMvcWithoutXML"/>
+			<item value="Spring-Boot"/>
+			<item value="SpringBootHelloWorld"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,6 +29,22 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\poonam.jondhale\Downloads\SpringBootExampleHello"/>
+			<item value="C:\Users\poonam.jondhale\Downloads\SpringBootExample"/>
+			<item value="C:\Users\poonam.jondhale\Downloads\SpringBoot"/>
+			<item value="C:\Users\poonam.jondhale\Downloads\demo (1)"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -38,6 +58,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\poonam.jondhale\eclipse-workspace\SpringAnnotationProject\src\main\java\com\pack\DatabaseDAO.java"/>
 			<item value="C:\Users\poonam.jondhale\eclipse-workspace\SpringAnno\src\main\java\com\pack\HelloController.java"/>
 			<item value="C:\Users\poonam.jondhale\eclipse-workspace\SpringSelectOperationX"/>
 			<item value="C:\Users\poonam.jondhale\eclipse-workspace\Xyz"/>
